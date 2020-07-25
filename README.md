@@ -1,0 +1,2 @@
+## Implementations and Analyses of Basic Face Recognition methods
+This is the face recognition project at UCSD when I was an undergrad. I Implemented and analyzed the accuracy of kNN, Eigenfaces, and Fisherfaces techniques for face recognition.
